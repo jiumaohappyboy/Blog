@@ -1,0 +1,22 @@
+{
+	"folders": [],
+	"settings": {
+		"files.associations": {
+			"vector": "cpp",
+			"map": "cpp",
+			"xstring": "cpp",
+			"ostream": "cpp",
+			"xlocnum": "cpp",
+			"algorithm": "cpp",
+			"chrono": "cpp",
+			"memory": "cpp",
+			"ratio": "cpp",
+			"tuple": "cpp",
+			"type_traits": "cpp",
+			"utility": "cpp",
+			"xmemory0": "cpp",
+			"xtr1common": "cpp",
+			"xutility": "cpp"
+		}
+	}
+}
